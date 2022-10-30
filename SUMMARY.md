@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🗒 Meeting Notes](README.md)
+* [🗒 Hi, Im Bleyom💀](README.md)
 
 ## Meeting Template
 
