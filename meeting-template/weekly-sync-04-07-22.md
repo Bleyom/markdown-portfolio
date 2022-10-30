@@ -1,8 +1,5 @@
 # Weekly Sync - 04/07/22
 
-{% hint style="info" %}
-**GitBook tip:** bias meetings towards action and discovery by sticking to a format where you document learnings, blockers, and next steps.
-{% endhint %}
 
 ## Participants
 
